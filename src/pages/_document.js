@@ -30,7 +30,9 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html lang="en-US">
-        <Head />
+        <Head>
+          <link rel="preload" href="/fonts/fonts.css" as="font" />
+        </Head>
         <body>
           <Main />
           <NextScript />

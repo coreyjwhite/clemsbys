@@ -4,11 +4,11 @@ export default {
   primary2: "hsl(207, 87%, 20%)", // #073961
   primary3: "hsl(207, 91%, 23%)", // #053F6F
   primary4: "hsl(207, 97%, 25%)", // #02467C
-  primary5: "hsl(207, 100%, 27%)", // base primary color, #004C8A
+  primary5: "hsl(24, 100%, 33%)", // base primary color, #004C8A
   primary6: "hsl(207, 48%, 55%)", // #3974A4
   primary7: "hsl(207, 60%, 75%)", // #719CBE
   primary8: "hsl(210, 37%, 90%)", // #B9CCDF
-  primary9: "hsl(210, 50%, 96%)", // lightest primary color, #F6F6F6
+  primary9: "hsl(24, 100%, 94%)", // lightest primary color, #F6F6F6
 
   /* gray */
   gray1: "hsl(0, 0%, 17%)", // lightest gray, #2B2B2B
