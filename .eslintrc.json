@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:jsdoc/recommended",
+    "plugin:react/recommended"
+  ],
+  "rules": {
+    "react/react-in-jsx-scope": "off"
+  },
+  "globals": { "React": "writable" },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "plugins": ["jsdoc"]
+}

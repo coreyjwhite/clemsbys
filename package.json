@@ -1,0 +1,22 @@
+{
+  "name": "brisbys",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-standard-react": "^11.0.1",
+    "eslint-plugin-jsdoc": "^32.0.2",
+    "eslint-plugin-react": "^7.22.0",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-table": "^7.6.3",
+    "styled-components": "^5.2.1",
+    "styled-normalize": "^8.0.7"
+  }
+}
