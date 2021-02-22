@@ -32,6 +32,8 @@ export default class MyDocument extends Document {
       <Html lang="en-US">
         <Head>
           <link rel="preload" href="/fonts/fonts.css" as="font" />
+          <link rel="icon" href="" />
+          <meta name="author" content="Corey White" />
         </Head>
         <body>
           <Main />

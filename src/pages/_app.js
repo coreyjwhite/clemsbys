@@ -9,14 +9,6 @@ export default function App({ Component, pageProps }) {
     <>
       <Normalize />
       <GlobalStyle />
-      <Head>
-        <link rel="icon" href="" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1.0, viewport-fit=cover"
-        />
-        <meta name="author" content="Corey White" />
-      </Head>
       <Component {...pageProps} />
     </>
   );
